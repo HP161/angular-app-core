@@ -7,3 +7,7 @@
 - User Login
 - Charts and Datatable
 
+# Setup
+git clone https://github.com/HP161/angular-app-core.git
+- npm install
+- npm start
